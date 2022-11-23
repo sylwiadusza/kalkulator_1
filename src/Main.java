@@ -23,6 +23,8 @@ public class Main {
             case 4:
                 System.out.println(number1 / number2);
                 break;
+            default:
+                System.out.println("Niepoprawna opcja");
         }
     }
 }
